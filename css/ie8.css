@@ -1,0 +1,28 @@
+/* 
+ * IE8 CSS
+ * @Author Imron Reviady 
+ */
+.overlay-green1, .overlay-green2,
+.overlay-blue, .overlay-pink,
+.overlay-brown, .overlay-orange  {
+	opacity: 0.9;
+	filter: alpha(opacity=90);
+}
+.overlay-green1 {
+	background-color: #50b1a0;
+}
+.overlay-green2 {
+	background-color: #50b189;
+}
+.overlay-blue {
+	background-color: #0e9ec7;
+}
+.overlay-pink {
+	background-color: #d04275;
+}
+.overlay-brown {
+	background-color: #d68f2a;
+}
+.overlay-orange {
+	background-color: #d06e39;
+}
